@@ -12,7 +12,7 @@
       aws_access_key: "{{ aws_id }}"
       aws_secret_key: "{{ aws_key}}"
       region: "{{ aws_region }}"
-      instance_id: i-0f19710c4c960da43
+      instance_id: i-0f1*******
       wait: no
       name: ansible
       tags:
