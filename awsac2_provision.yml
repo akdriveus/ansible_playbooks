@@ -14,5 +14,5 @@
       region: "{{ aws_region }}"
       image: ami-8c1be5f6
       instance_type: t2.micro
-      count: 4
+      count: 1
       vpc_subnet_id: subnet-112b2c3d   # Provided because default vpc subnet was removed
